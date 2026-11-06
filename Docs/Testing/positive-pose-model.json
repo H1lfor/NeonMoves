@@ -1,0 +1,6 @@
+{
+  "source": "https://storage.googleapis.com/mediapipe-assets/pose.jpg",
+  "people": 1,
+  "landmarks": 33,
+  "minimum_required_visibility": 0.9821199774742126
+}

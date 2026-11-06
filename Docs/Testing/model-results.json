@@ -1,0 +1,134 @@
+{
+  "speech_source": "Windows SAPI synthetic speech, two voices; not microphone/user testing",
+  "speech": [
+    {
+      "file": "Microsoft_Irina_Desktop_0.wav",
+      "expected": "pause",
+      "heard": "пауза",
+      "confidence": 1.0,
+      "actual": "pause",
+      "passed": true
+    },
+    {
+      "file": "Microsoft_Irina_Desktop_1.wav",
+      "expected": "resume",
+      "heard": "продолжить",
+      "confidence": 1.0,
+      "actual": "resume",
+      "passed": true
+    },
+    {
+      "file": "Microsoft_Irina_Desktop_2.wav",
+      "expected": "start",
+      "heard": "старт",
+      "confidence": 1.0,
+      "actual": "start",
+      "passed": true
+    },
+    {
+      "file": "Microsoft_Irina_Desktop_3.wav",
+      "expected": "next",
+      "heard": "дальше",
+      "confidence": 1.0,
+      "actual": "next",
+      "passed": true
+    },
+    {
+      "file": "Microsoft_Irina_Desktop_4.wav",
+      "expected": "menu",
+      "heard": "меню",
+      "confidence": 1.0,
+      "actual": "menu",
+      "passed": true
+    },
+    {
+      "file": "Microsoft_Irina_Desktop_5.wav",
+      "expected": "retry",
+      "heard": "повтор",
+      "confidence": 1.0,
+      "actual": "retry",
+      "passed": true
+    },
+    {
+      "file": "Microsoft_Irina_Desktop_6.wav",
+      "expected": "start",
+      "heard": "начать",
+      "confidence": 1.0,
+      "actual": "start",
+      "passed": true
+    },
+    {
+      "file": "Microsoft_Pavel_0.wav",
+      "expected": "pause",
+      "heard": "пауза",
+      "confidence": 1.0,
+      "actual": "pause",
+      "passed": true
+    },
+    {
+      "file": "Microsoft_Pavel_1.wav",
+      "expected": "resume",
+      "heard": "продолжить",
+      "confidence": 1.0,
+      "actual": "resume",
+      "passed": true
+    },
+    {
+      "file": "Microsoft_Pavel_2.wav",
+      "expected": "start",
+      "heard": "старт",
+      "confidence": 1.0,
+      "actual": "start",
+      "passed": true
+    },
+    {
+      "file": "Microsoft_Pavel_3.wav",
+      "expected": "next",
+      "heard": "дальше",
+      "confidence": 1.0,
+      "actual": "next",
+      "passed": true
+    },
+    {
+      "file": "Microsoft_Pavel_4.wav",
+      "expected": "menu",
+      "heard": "меню",
+      "confidence": 1.0,
+      "actual": "menu",
+      "passed": true
+    },
+    {
+      "file": "Microsoft_Pavel_5.wav",
+      "expected": "retry",
+      "heard": "повтор",
+      "confidence": 1.0,
+      "actual": "retry",
+      "passed": true
+    },
+    {
+      "file": "Microsoft_Pavel_6.wav",
+      "expected": "start",
+      "heard": "начать",
+      "confidence": 1.0,
+      "actual": "start",
+      "passed": true
+    }
+  ],
+  "pose": [
+    {
+      "input": "black",
+      "people": 0,
+      "passed": true
+    },
+    {
+      "input": "white",
+      "people": 0,
+      "passed": true
+    },
+    {
+      "input": "noise",
+      "people": 0,
+      "passed": true
+    }
+  ]
+}

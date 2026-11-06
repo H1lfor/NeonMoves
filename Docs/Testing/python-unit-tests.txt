@@ -1,0 +1,21 @@
+test_all_reference_poses_match (__main__.PoseTests.test_all_reference_poses_match) ... ok
+test_correct_aspect_features (__main__.PoseTests.test_correct_aspect_features) ... ok
+test_mirrored_side_changes_expected_pose (__main__.PoseTests.test_mirrored_side_changes_expected_pose) ... ok
+test_missing_landmarks (__main__.PoseTests.test_missing_landmarks) ... ok
+test_no_person_has_zero_scores (__main__.PoseTests.test_no_person_has_zero_scores) ... ok
+test_occluded_hand_blocks_scoring (__main__.PoseTests.test_occluded_hand_blocks_scoring) ... ok
+test_offscreen_foot_blocks_scoring (__main__.PoseTests.test_offscreen_foot_blocks_scoring) ... ok
+test_squat_cannot_score_standing (__main__.PoseTests.test_squat_cannot_score_standing) ... ok
+test_standing_cannot_score_squat (__main__.PoseTests.test_standing_cannot_score_squat) ... ok
+test_translation_and_scale_invariance (__main__.PoseTests.test_translation_and_scale_invariance) ... ok
+test_wrapped_angles (__main__.PoseTests.test_wrapped_angles) ... ok
+test_all_commands (__main__.VoiceTests.test_all_commands) ... ok
+test_embedded_command_ignored (__main__.VoiceTests.test_embedded_command_ignored) ... ok
+test_partial_word_ignored (__main__.VoiceTests.test_partial_word_ignored) ... ok
+test_unknown_speech_ignored (__main__.VoiceTests.test_unknown_speech_ignored) ... ok
+test_whitespace_case (__main__.VoiceTests.test_whitespace_case) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.003s
+
+OK

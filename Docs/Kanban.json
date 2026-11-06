@@ -1,0 +1,211 @@
+{
+  "columns": [
+    "Backlog",
+    "To Do",
+    "In Progress",
+    "Testing",
+    "Done"
+  ],
+  "tasks": [
+    {
+      "id": "01",
+      "task": "Концепция и исходный план",
+      "planned_role": "1",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "02",
+      "task": "Unity и настройки Windows",
+      "planned_role": "2",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "03",
+      "task": "Правила очков и энергии",
+      "planned_role": "1",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "04",
+      "task": "Словарь шести поз",
+      "planned_role": "2",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "05",
+      "task": "Персонаж Nova",
+      "planned_role": "1",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "06",
+      "task": "Персонаж Pulse",
+      "planned_role": "1",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "07",
+      "task": "Анимации и костюмы",
+      "planned_role": "1",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "08",
+      "task": "Сцена, шейдер и свет",
+      "planned_role": "1",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "09",
+      "task": "Старт и главное меню",
+      "planned_role": "1",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "10",
+      "task": "Выбор режима и персонажа",
+      "planned_role": "1",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "11",
+      "task": "Калибровка камеры",
+      "planned_role": "2",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "12",
+      "task": "OpenCV и MediaPipe",
+      "planned_role": "2",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "13",
+      "task": "SoundDevice и Vosk",
+      "planned_role": "2",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "14",
+      "task": "HTTP-мост и жизненный цикл",
+      "planned_role": "2",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "15",
+      "task": "Три этапа и два типа заданий",
+      "planned_role": "1",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "16",
+      "task": "Адаптивная сложность",
+      "planned_role": "2",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "17",
+      "task": "Музыка и сигналы",
+      "planned_role": "1",
+      "priority": "Should",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "18",
+      "task": "Пауза и настройки",
+      "planned_role": "1",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "19",
+      "task": "Сохранения и достижения",
+      "planned_role": "2",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "20",
+      "task": "Тесты правил и AI",
+      "planned_role": "2",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "21",
+      "task": "Визуальная проверка сборки",
+      "planned_role": "1",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "22",
+      "task": "Windows-сборка и инструкция",
+      "planned_role": "2",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "23",
+      "task": "Отчёты №8–15",
+      "planned_role": "1, 2",
+      "priority": "Must",
+      "status": "Done",
+      "due": "29.10.2026"
+    },
+    {
+      "id": "24",
+      "task": "Тестирование с тремя игроками",
+      "planned_role": "1, 2",
+      "priority": "Must",
+      "status": "To Do",
+      "due": "Назначает команда"
+    },
+    {
+      "id": "25",
+      "task": "GitHub и защита команды",
+      "planned_role": "—",
+      "priority": "Отдельно",
+      "status": "Backlog",
+      "due": "Назначает команда"
+    }
+  ]
+}

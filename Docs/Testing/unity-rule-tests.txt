@@ -1,0 +1,61 @@
+PASS Camera connection is sufficient to start calibration
+PASS Disconnected camera and other pages cannot start a run
+PASS One sustained thumb starts after one second of fresh frames
+PASS Sustained thumb cannot start twice
+PASS Repeated stale camera frame never completes thumb hold
+PASS Releasing thumb resets hold
+PASS Large gap between frames resets hold
+PASS Camera disconnect resets hold
+PASS Stable tracked hands release an automatic pause
+PASS A recovered pose triggers continuation only once
+PASS Recovery does not resume when manual
+PASS Recovery does not resume when keyboard
+PASS Recovery does not resume when unfocused
+PASS Recovery does not resume when settings
+PASS Recovery does not resume when missing
+PASS Pose disappearing during recovery resets progress
+PASS Stale repeated frames cannot automatically resume
+PASS Tracking recovery restarts after a long frame gap
+PASS Idle transition leaves input available
+PASS Navigation transition blends smoothly at halfway
+PASS Finished transition restores input and clears overlay
+PASS Pause transition finishes faster than navigation
+PASS Resize can cancel a transition cleanly
+PASS Brief tracking loss does not open the pause screen
+PASS Game controller enters automatic pause after tracking loss
+PASS Game controller returns from tracking pause without input
+PASS Automatic recovery preserves score energy and move timer
+PASS Brief tracking loss during recovery keeps the countdown
+PASS Losing hands during recovery countdown restores automatic pause
+PASS Tracking pause stays paused while the window is unfocused
+PASS Returning to the game window preserves automatic recovery
+PASS Manual pause is not released by tracking recovery
+PASS Recovery never closes the settings screen
+PASS Adaptive difficulty rises after high accuracy
+PASS Adaptive difficulty falls after low accuracy
+PASS Adaptive difficulty clamps at upper bound
+PASS Adaptive difficulty clamps at lower bound
+PASS Combo increases awarded points
+PASS Beat challenge awards bonus
+PASS Sequence has twelve valid nonrepeating moves
+PASS Shared catalog contains two complete six-pose sets
+PASS All poses have two supported five-finger gestures
+PASS Former low poses are replaced by distinct hand gestures
+PASS Pulse uses keyboard keys one through six
+PASS Pulse keeps its own choreography through all three stages
+PASS Seven consecutive misses exhaust energy
+PASS Loss freezes session
+PASS Brief pose cannot pass hold challenge
+PASS Sustained pose earns perfect
+PASS Miss resets combo
+PASS Stage 0 completes after twelve hits
+PASS Stage 1 completes after twelve hits
+PASS Stage 2 completes after twelve hits
+PASS Full tournament completes all three stages
+PASS Both challenge types exercised
+PASS Full accuracy is one
+PASS Three-stage progression increases difficulty
+PASS Early pose misses beat target
+PASS Zero time cannot advance session
+PASS Loss cannot receive winning grade
+PASS Perfect win receives S

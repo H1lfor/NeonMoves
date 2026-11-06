@@ -1,0 +1,88 @@
+[
+  {
+    "image": "victory.jpg",
+    "mirrored": false,
+    "expected": "Victory",
+    "passed": true,
+    "startGesture": false,
+    "detected": [
+      {
+        "gesture": "Victory",
+        "confidence": 0.908
+      }
+    ]
+  },
+  {
+    "image": "victory.jpg",
+    "mirrored": true,
+    "expected": "Victory",
+    "passed": true,
+    "startGesture": false,
+    "detected": [
+      {
+        "gesture": "Victory",
+        "confidence": 0.6765
+      }
+    ]
+  },
+  {
+    "image": "thumbs_up.jpg",
+    "mirrored": false,
+    "expected": "Thumb_Up",
+    "passed": true,
+    "startGesture": true,
+    "detected": [
+      {
+        "gesture": "Thumb_Up",
+        "confidence": 0.7324
+      }
+    ]
+  },
+  {
+    "image": "thumbs_up.jpg",
+    "mirrored": true,
+    "expected": "Thumb_Up",
+    "passed": true,
+    "startGesture": true,
+    "detected": [
+      {
+        "gesture": "Thumb_Up",
+        "confidence": 0.7786
+      }
+    ]
+  },
+  {
+    "image": "pointing_up.jpg",
+    "mirrored": false,
+    "expected": "Pointing_Up",
+    "passed": true,
+    "startGesture": false,
+    "detected": [
+      {
+        "gesture": "Pointing_Up",
+        "confidence": 0.8197
+      }
+    ]
+  },
+  {
+    "image": "pointing_up.jpg",
+    "mirrored": true,
+    "expected": "Pointing_Up",
+    "passed": true,
+    "startGesture": false,
+    "detected": [
+      {
+        "gesture": "Pointing_Up",
+        "confidence": 0.9068
+      }
+    ]
+  },
+  {
+    "blank": 0,
+    "passed": true
+  },
+  {
+    "blank": 255,
+    "passed": true
+  }
+]

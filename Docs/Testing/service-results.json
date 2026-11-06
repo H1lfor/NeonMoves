@@ -1,0 +1,66 @@
+[
+  {
+    "test": "Camera start protocol advertised",
+    "passed": true
+  },
+  {
+    "test": "No stale start gesture on launch",
+    "passed": true
+  },
+  {
+    "test": "No stale hand data at startup",
+    "passed": true
+  },
+  {
+    "test": "Starts with devices off",
+    "passed": true
+  },
+  {
+    "test": "Initial pose cannot earn points",
+    "passed": true
+  },
+  {
+    "test": "Unauthenticated read rejected",
+    "passed": true
+  },
+  {
+    "test": "Unauthenticated device configuration rejected",
+    "passed": true
+  },
+  {
+    "test": "Invalid camera index rejected",
+    "passed": true
+  },
+  {
+    "test": "Invalid retry revision rejected",
+    "passed": true
+  },
+  {
+    "test": "Non-object configuration rejected",
+    "passed": true
+  },
+  {
+    "test": "Unknown endpoint returns 404",
+    "passed": true
+  },
+  {
+    "test": "No frame exposed with camera off",
+    "passed": true
+  },
+  {
+    "test": "Device-off configuration accepted",
+    "passed": true
+  },
+  {
+    "test": "Unauthorized shutdown rejected",
+    "passed": true
+  },
+  {
+    "test": "Authenticated shutdown accepted",
+    "passed": true
+  },
+  {
+    "test": "Service exits cleanly",
+    "passed": true
+  }
+]

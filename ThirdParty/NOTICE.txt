@@ -1,0 +1,17 @@
+NEONMOVES THIRD PARTY COMPONENTS
+
+Unity engine and Unity packages: Unity Technologies, distributed under applicable Unity terms.
+Python 3.12.8 embedded distribution: Python Software Foundation license; license included in AI/runtime/LICENSE.txt.
+MediaPipe 0.10.21: Google, Apache 2.0; package notices in AI/runtime/Lib/site-packages/mediapipe-0.10.21.dist-info.
+MediaPipe Pose Landmarker Lite: Google; model retrieved from https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_lite/float16/1/pose_landmarker_lite.task
+MediaPipe Gesture Recognizer: Google; model retrieved from https://storage.googleapis.com/mediapipe-models/gesture_recognizer/gesture_recognizer/float16/1/gesture_recognizer.task
+Development-only hand images: official MediaPipe Gesture Recognizer sample, https://github.com/googlesamples/mediapipe/blob/main/examples/gesture_recognizer/python/gesture_recognizer.ipynb (original image links and credits are listed there). These fixtures are excluded from the game distribution.
+OpenCV contrib 4.11.0.86: Apache 2.0; license included in package dist-info.
+Vosk 0.3.45: Alpha Cephei, Apache 2.0.
+Russian vosk-model-small-ru-0.22: Alpha Cephei, Apache 2.0; https://alphacephei.com/vosk/models
+NumPy 1.26.4: BSD-3-Clause. SoundDevice 0.5.1: MIT. Transitive dependency licenses are retained with the packaged Python distributions.
+Noto Sans Regular and Bold: SIL Open Font License 1.1; see NotoSans-LICENSE.txt.
+
+Character meshes, costumes, environments, UI design and procedural soundtrack were authored for Neonmoves. No third-party game or character model was reused.
+
+Development speech fixtures were synthesized using installed Windows voices. They are test inputs only and are excluded from the game distribution.
